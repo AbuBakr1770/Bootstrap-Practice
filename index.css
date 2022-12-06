@@ -1,0 +1,16 @@
+a{
+    text-decoration: none;
+    color: white;
+
+}
+
+.frontend-brand{
+    color: white;
+}
+
+
+body::before{
+    display: block;
+    content: '';
+    height: 35px;
+}
